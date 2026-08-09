@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python environment / secrets
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Frontend build
+dist/
+
+# VS Code
+.vscode/
+
+# Other IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
