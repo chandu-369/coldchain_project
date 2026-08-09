@@ -1,0 +1,72 @@
+.header{
+
+    width:100%;
+    background:#1e293b;
+    color:white;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 40px;
+
+    border-radius:12px;
+
+    box-shadow:0 0 20px rgba(0,0,0,.25);
+
+    margin-bottom:25px;
+
+}
+
+.header-left{
+
+    display:flex;
+    align-items:center;
+    gap:15px;
+
+}
+
+.header-left h1{
+
+    font-size:32px;
+    font-weight:700;
+
+}
+
+.truck-icon{
+
+    font-size:36px;
+    color:#38bdf8;
+
+}
+
+.header-right{
+
+    display:flex;
+    align-items:center;
+    gap:30px;
+
+}
+
+.status{
+
+    display:flex;
+    align-items:center;
+    gap:10px;
+
+    font-size:18px;
+
+}
+
+.online{
+
+    color:#22c55e;
+
+}
+
+.time{
+
+    font-size:18px;
+    font-weight:bold;
+
+}

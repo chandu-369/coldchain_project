@@ -1,0 +1,49 @@
+.driver-alert{
+
+    margin-top:30px;
+
+    background:#203040;
+
+    border:3px solid #00ff88;
+
+    border-radius:15px;
+
+    padding:25px;
+
+    color:white;
+
+    text-align:center;
+
+}
+
+.driver-alert h2{
+
+    color:#00ff88;
+
+}
+
+.driver-alert button{
+
+    margin-top:20px;
+
+    padding:15px 35px;
+
+    background:#00aa55;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    font-size:18px;
+
+}
+
+.driver-alert button:hover{
+
+    background:#008844;
+
+}
