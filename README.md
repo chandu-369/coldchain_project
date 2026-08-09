@@ -23,3 +23,6 @@ AI Prediction → Route Recommendation → Owner Approval → Driver Alert
 ## Project Status
 
 Prototype / Demonstration
+## System Architecture
+
+![System Architecture](docs/system-overview.png)
