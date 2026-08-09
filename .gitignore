@@ -1,11 +1,15 @@
-# Python
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
+*.pyd
 
-# Python environment / secrets
+# Environment / secrets
 .env
 .env.*
+
+# Telegram secret file
+backend/telegram_alert.py
 
 # Node
 node_modules/
@@ -15,9 +19,6 @@ dist/
 
 # VS Code
 .vscode/
-
-# Other IDE
-.idea/
 
 # OS
 .DS_Store
